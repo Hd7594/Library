@@ -1,4 +1,4 @@
-//L'objectif de cette partie (books) de mon projet était d'utiliser la clé ayant pour référence le modèle library et montrer que tel livre appartient à telle librairie.
+//L'objectif de cette partie (books) de mon projet était d'utiliser la clé "owner" ayant pour référence le modèle library et montrer que tel livre appartient à telle librairie.
 
 const express = require("express");
 const router = express.Router();
